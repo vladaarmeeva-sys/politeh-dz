@@ -1,3 +1,31 @@
 {
- "entries": []
+ "entries": [
+  {
+   "id": "a3ed4699fddd",
+   "subject": "Русский язык",
+   "date": "2026-10-27",
+   "createdAt": "2026-10-22T12:53:33.217Z",
+   "createdDay": "2026-10-22",
+   "text": "упр 7, конспект по тексту ( в тетради )",
+   "photos": [
+    {
+     "path": "photos/a3ed4699fddd-1.jpg",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "path": "photos/a3ed4699fddd-2.jpg",
+     "w": 1200,
+     "h": 1600
+    },
+    {
+     "path": "photos/a3ed4699fddd-3.jpg",
+     "w": 1200,
+     "h": 1600
+    }
+   ],
+   "delHash": "9ec0e6d6a55559e49977af553d0ae6e5c9baa79951d30e90353fc9fe0c1f1cab",
+   "predicted": true
+  }
+ ]
 }
