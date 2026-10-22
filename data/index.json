@@ -26,6 +26,22 @@
    ],
    "delHash": "9ec0e6d6a55559e49977af553d0ae6e5c9baa79951d30e90353fc9fe0c1f1cab",
    "predicted": true
+  },
+  {
+   "id": "77e941d1231a",
+   "subject": "Физика",
+   "date": "2026-10-23",
+   "createdAt": "2026-10-22T15:28:21.807Z",
+   "createdDay": "2026-10-22",
+   "text": "Делаем по вариантам(ваш вариант -ваш номер по списку)",
+   "photos": [
+    {
+     "path": "photos/77e941d1231a-1.jpg",
+     "w": 1200,
+     "h": 1600
+    }
+   ],
+   "delHash": "f58b7c111eb7932691df48f15829bd4006535efd6b9248071888eb334b549c07"
   }
  ]
 }
