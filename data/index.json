@@ -1,20 +1,3 @@
 {
- "entries": [
-  {
-   "id": "822e8cc2bba1",
-   "subject": "Математика",
-   "date": "2026-10-23",
-   "createdAt": "2026-10-22T12:50:31.027Z",
-   "createdDay": "2026-10-22",
-   "text": "Проверка сайта, сейчас удалю",
-   "photos": [
-    {
-     "path": "photos/822e8cc2bba1-1.jpg",
-     "w": 1200,
-     "h": 1600
-    }
-   ],
-   "delHash": "0d04093d72fb9f866ace9577f8e4ecce798eef9c18647d8210de2aa74ec50fe0"
-  }
- ]
+ "entries": []
 }
